@@ -1,0 +1,124 @@
+{
+"movies": [
+    {
+        "_id": "ObjectId('622fed7711060b2961b768d6')",
+        "title": "spider1",
+        "description": "spider1desc",
+        "img": "spider1img",
+        "trailer": "spider1ttt",
+        "video": "spider1vid",
+        "genre": "action",
+        "series": false
+    },
+    {
+        "_id": "ObjectId('622feebd11060b2961b768da')",
+        "title": "spider2",
+        "description": "spider2desc",
+        "img": "spider2img",
+        "trailer": "spider1ttt",
+        "video": "spider2vid",
+        "genre": "action",
+        "series": false
+    },
+    {
+        "_id": "ObjectId('622feeee11060b2961b768dd')",
+        "title": "spider3",
+        "description": "spider1desc3",
+        "img": "spider1img3",
+        "trailer": "spider1ttt3",
+        "video": "spider1vid3",
+        "genre": "action",
+        "series": false
+    },
+    {
+        "_id": "ObjectId('622feefd11060b2961b768e0')",
+        "title": "spider4",
+        "description": "spider1des44c",
+        "img": "spider1img4",
+        "trailer": "spider1ttt44",
+        "video": "spider1vid4",
+        "genre": "action",
+        "series": false
+    },
+    {
+        "_id": "ObjectId('622fef4911060b2961b768e3')",
+        "title": "spider5",
+        "description": "spider1desc5",
+        "img": "spider1img5",
+        "trailer": "spider1ttt5",
+        "video": "spider1vid5",
+        "genre": "action",
+        "series": false
+    },
+    {
+        "_id": "ObjectId('622fef5511060b2961b768e6')",
+        "title": "spider6",
+        "description": "spider1desc6",
+        "img": "spider1img6",
+        "trailer": "spider1ttt6",
+        "video": "spider1vid6",
+        "genre": "action",
+        "series": false
+    },
+    {
+        "_id": "ObjectId('622fefcc84d49b64edcd738e')",
+        "title": "loloa11",
+        "description": "lolala11",
+        "img": "spid1111er1img6",
+        "trailer": "spid1111er1ttt6",
+        "video": "spide1111r1vid6",
+        "genre": "action",
+        "series": true
+    },
+    {
+        "_id": "ObjectId('622fefd784d49b64edcd7391')",
+        "title": "loloa1122",
+        "description": "lolala1122",
+        "img": "spid1111er1img622",
+        "trailer": "spid1111er1ttt622",
+        "video": "222",
+        "genre": "action",
+        "series": true
+    },
+    {
+        "_id": "ObjectId('622fefe384d49b64edcd7394')",
+        "title": "loloa1123332",
+        "description": "lolala33331122",
+        "img": "spid1333111er1img622",
+        "trailer": "spid1111er1t333tt622",
+        "video": "23332",
+        "genre": "action",
+        "series": true
+    },
+    {
+        "_id": "ObjectId('622feff584d49b64edcd7397')",
+        "title": "4444",
+        "description": "lolal444431122",
+        "img": "sp44441img622",
+        "trailer": "spid1111e444t622",
+        "video": "234444442",
+        "genre": "action",
+        "series": true
+    },
+    {
+        "_id": "ObjectId('622ff00a84d49b64edcd739a')",
+        "title": "ghghg5555",
+        "description": "lolal5555522",
+        "img": "sp5555622",
+        "trailer": "spi55552",
+        "video": "fgfgf555",
+        "genre": "action",
+        "series": true
+    },
+    {
+        "_id": "ObjectId('622ff01e84d49b64edcd739d')",
+        "title": "ghg66",
+        "description": "lolal66",
+        "img": "sp662",
+        "trailer": "spi5662",
+        "video": "fgfg66665",
+        "genre": "action",
+        "series": true
+    }
+]
+}
